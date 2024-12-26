@@ -4,4 +4,5 @@ Esse projeto contém minha primeira página web simples escrita em HTML.
 
 ## Resultado
 
-![Resultado](D:/Workspace/Estacio/reporemoto/resultado.png)
+![Resultado](https://github.com/Jemanuel/Primeira-Pagina-em-HTML
+/raw/main/resultado.png)
